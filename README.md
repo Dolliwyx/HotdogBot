@@ -1,6 +1,5 @@
 # Hotdog
 
-[![Pipeline Status](https://gitlab.com/InsaneDevs/Hotdog/badges/master/pipeline.svg)](https://gitlab.com/InsaneDevs/Hotdog/commits/master)
 [![Discord](https://discordapp.com/api/guilds/369311992176967680/embed.png)](https://discord.gg/gTtVN6h)
 
 ## A multipurpose Discord Bot, to moderation and entertainment, Hotdog is full of suprises
